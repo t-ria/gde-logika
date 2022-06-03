@@ -1,0 +1,2 @@
+TOKEN = "5129343704:AAEQ0O6FhQ_tno-PJzgaLe4cDy0vZHGWa00"
+users = {}
